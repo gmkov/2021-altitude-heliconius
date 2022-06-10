@@ -1,0 +1,17 @@
+,combo.para.allo.type,combo,min.fdm.mean,max.fdm.mean,min.fdm.se,max.fdm.se,min.fdm.10th,max.fdm.90th
+1,shdr.para.east,fd_melCvlowE_melChighE_melChighW_hecale,-0.049481918,0.04077658,0.000225347,0.000157442,-0.1179,0.0808
+NA,shdr.para.east,fd_melCvlowE_melChighE_timEhighE_hecale,-0.003390285,0.095761794,0.000168451,0.000237709,-0.0491,0.1623
+3,shdr.para.east,fd_melCvlowW_melChighW_cydEhighW_hecale,-0.037718567,0.058112158,0.000184777,0.00021848,-0.0834,0.1106
+4,shdr.para.east,fd_melCvlowW_melChighW_melChighE_hecale,-0.044604941,0.032050834,0.000131174,0.000122276,-0.0841,0.0656
+5,shdr.para.east,fd_melElowW_melEhighW_cydEhighW_hecale,-0.049035803,0.039047358,0.000196108,0.000168796,-0.1001,0.0829
+6,shdr.para.east,fd_melElowW_melEhighW_melEhighE_hecale,-0.030232156,0.03771834,0.000112179,0.000116465,-0.0609,0.0716
+7,shdr.para.east,fd_melEvlowE_melEhighE_melEhighW_hecale,-0.038305296,0.029580541,0.000119584,0.000108459,-0.0734,0.0595
+8,shdr.para.east,fd_melEvlowE_melEhighE_timEhighE_hecale,-0.022614618,0.060323182,0.000153794,0.000153217,-0.0632,0.1052
+11,shdr.para.west,fd_melCvlowE_melChighE_melChighW_hecale,-0.045154557,0.036610766,0.000162527,0.000111394,-0.1095,0.0742
+NA1,shdr.para.west,fd_melCvlowE_melChighE_timEhighE_hecale,0.000792446,0.090796587,0.000122503,0.000169986,-0.0428,0.1527
+31,shdr.para.west,fd_melCvlowW_melChighW_cydEhighW_hecale,-0.03347996,0.052796002,0.000128521,0.000152981,-0.0778,0.1042
+41,shdr.para.west,fd_melCvlowW_melChighW_melChighE_hecale,-0.041082865,0.028800029,9.446E-05,8.72757E-05,-0.0797,0.0616
+51,shdr.para.west,fd_melElowW_melEhighW_cydEhighW_hecale,-0.044249687,0.035156968,0.000136836,0.000120373,-0.0885,0.0784
+61,shdr.para.west,fd_melElowW_melEhighW_melEhighE_hecale,-0.027288419,0.034715016,8.13676E-05,8.43578E-05,-0.0573,0.0678
+71,shdr.para.west,fd_melEvlowE_melEhighE_melEhighW_hecale,-0.035163524,0.026884405,8.59437E-05,7.82174E-05,-0.0682,0.0556
+81,shdr.para.west,fd_melEvlowE_melEhighE_timEhighE_hecale,-0.018872519,0.056666226,0.000110641,0.000111724,-0.0582,0.1008

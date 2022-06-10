@@ -1,0 +1,13 @@
+,combo.para.allo.type,combo,min.fdm.10th,max.fdm.90th
+1,shdr.para.east,fd_melCvlowE_melChighE_timEhighE_hecale,-0.0487,0.1593
+NA,shdr.para.east,fd_melCvlowW_melChighW_cydEhighW_hecale,-0.0822,0.1097
+3,shdr.para.east,fd_melElowW_melEhighW_cydEhighW_hecale,-0.0978,0.0821
+4,shdr.para.east,fd_melEvlowE_melEhighE_timEhighE_hecale,-0.0621,0.1046
+11,shdr.para.west,fd_melCvlowE_melChighE_timEhighE_hecale,-0.0428,0.1504
+NA1,shdr.para.west,fd_melCvlowW_melChighW_cydEhighW_hecale,-0.0766,0.1043
+31,shdr.para.west,fd_melElowW_melEhighW_cydEhighW_hecale,-0.0876,0.0779
+41,shdr.para.west,fd_melEvlowE_melEhighE_timEhighE_hecale,-0.0569,0.1008
+12,shdr.allo,fd_melCvlowE_melChighE_timEhighE_hecale,-0.0605,0.1774
+NA2,shdr.allo,fd_melCvlowW_melChighW_cydEhighW_hecale,-0.0941,0.1283
+32,shdr.allo,fd_melElowW_melEhighW_cydEhighW_hecale,-0.1173,0.0966
+42,shdr.allo,fd_melEvlowE_melEhighE_timEhighE_hecale,-0.07798,0.119
