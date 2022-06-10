@@ -1,25 +1,3 @@
-,combo.allo.type,combo,min.fdm.mean,max.fdm.mean,min.fdm.se,max.fdm.se,min.fdm.10th,max.fdm.90th
-1,shdr.east,fd_eraCvlowE_eraChighE_clyEhighE_eleHW,-0.007527751,0.008322063,2.63834E-05,2.91902E-05,-0.015,0.0169
-NA,shdr.east,fd_eraCvlowE_eraChighE_eraChighW_eleHW,-0.012388415,0.036834536,8.57626E-05,0.000106261,-0.0371,0.0651
-3,shdr.east,fd_eraCvlowE_eraChighE_himHE_eleHW,-0.015361879,0.030162272,9.38215E-05,0.000108609,-0.0371,0.0564
-4,shdr.east,fd_eraCvlowE_eraChighE_telhighE_eleHW,-0.007399848,0.007928613,2.84647E-05,2.85685E-05,-0.0147,0.0159
-5,shdr.east,fd_eraCvlowW_eraChighW_clyEhighW_eleHW,-0.006954944,0.007756697,2.42764E-05,2.61115E-05,-0.0145,0.0157
-6,shdr.east,fd_eraCvlowW_eraChighW_eraChighE_eleHW,-0.022283502,0.037482305,0.000110968,0.000100364,-0.0557,0.0722
-7,shdr.east,fd_eraEvlowE_eraEhighE_clyEhighE_eleHW,-0.008029224,0.007266535,2.90768E-05,2.67359E-05,-0.0161,0.0156
-8,shdr.east,fd_eraEvlowE_eraEhighE_eraEhighW_eleHW,-0.024536537,0.0236202,0.000104259,0.000111149,-0.0503,0.0468
-9,shdr.east,fd_eraEvlowE_eraEhighE_himHE_eleHW,-0.023235676,0.01869009,9.87083E-05,0.000114565,-0.0461,0.0373
-10,shdr.east,fd_eraEvlowE_eraEhighE_telhighE_eleHW,-0.007857928,0.00692799,2.93972E-05,2.58591E-05,-0.0159,0.0151
-11,shdr.east,fd_eraEvlowW_eraEhighW_clyEhighW_eleHW,-0.005791919,0.004986233,1.91927E-05,1.9554E-05,-0.0119,0.0109
-12,shdr.east,fd_eraEvlowW_eraEhighW_eraEhighE_eleHW,-0.024152271,0.021274058,8.057E-05,7.30223E-05,-0.049,0.0442
-13,shdr.west,fd_eraCvlowE_eraChighE_clyEhighE_eleHW,-0.006929852,0.00773775,1.92895E-05,2.11253E-05,-0.0144,0.016
-NA1,shdr.west,fd_eraCvlowE_eraChighE_eraChighW_eleHW,-0.010450852,0.03526508,6.41409E-05,7.82273E-05,-0.0348,0.0626
-31,shdr.west,fd_eraCvlowE_eraChighE_himHE_eleHW,-0.013607399,0.028363167,6.84981E-05,8.01691E-05,-0.035,0.05366
-41,shdr.west,fd_eraCvlowE_eraChighE_telhighE_eleHW,-0.006812146,0.007386564,2.02265E-05,2.0743E-05,-0.0139,0.0153
-51,shdr.west,fd_eraCvlowW_eraChighW_clyEhighW_eleHW,-0.006437717,0.007150485,1.76633E-05,1.8712E-05,-0.0138,0.0146
-61,shdr.west,fd_eraCvlowW_eraChighW_eraChighE_eleHW,-0.019937184,0.035101697,8.08335E-05,7.39177E-05,-0.0526,0.0687
-71,shdr.west,fd_eraEvlowE_eraEhighE_clyEhighE_eleHW,-0.00746099,0.00666259,2.08334E-05,1.93866E-05,-0.0153,0.015
-81,shdr.west,fd_eraEvlowE_eraEhighE_eraEhighW_eleHW,-0.022688749,0.021791518,7.6841E-05,8.21317E-05,-0.0477,0.0446
-91,shdr.west,fd_eraEvlowE_eraEhighE_himHE_eleHW,-0.021668395,0.017149012,7.48021E-05,8.4862E-05,-0.0443,0.0353
-101,shdr.west,fd_eraEvlowE_eraEhighE_telhighE_eleHW,-0.00727789,0.006341478,2.03778E-05,1.8931E-05,-0.0149,0.0142
-111,shdr.west,fd_eraEvlowW_eraEhighW_clyEhighW_eleHW,-0.005371714,0.004558774,1.39928E-05,1.41256E-05,-0.0114,0.0103
-121,shdr.west,fd_eraEvlowW_eraEhighW_eraEhighE_eleHW,-0.022426746,0.019549848,5.92722E-05,5.31602E-05,-0.0466,0.0423
+version https://git-lfs.github.com/spec/v1
+oid sha256:a57553170073f24c3676a30908270a3728c8929e349b9ac8c4cf776f5ef8570e
+size 2859

@@ -1,9 +1,3 @@
-id.joana,cam.id,type,species,pop.me,accession,altitude,alt.type,side,type.gmk,mean.depth.wg.withzeros,seq.round,subsp,in.tree,in.tree.supp,in.main.tree
-CAM040223,CAM040223,clyEhighE,clysonymus,,,,high,east,,,,,yes,yes,yes
-CAM040566,CAM040566,eleHW,eleuchia,,,,high,west,,,,,yes,yes,yes
-CAM040232,CAM040232,eraEhighE,erato,era.ec.e.r,ERS4212696,1120,high,east,EhighE,16.83,Novo.Ec.dec17,lativitta,yes,yes,yes
-CAM040545,CAM040545,eraEhighW,erato,era.ec.w.pac,ERS4212580,1201,high,west,EhighW,16.82,Novo.Ec.dec17,cyrbia,yes,yes,yes
-CAM040435,CAM040435,eraEvlowE,erato,era.ec.e.yas,ERS4212698,230,low,east,EvlowE,18.32,Novo.Ec.dec17,lativitta,yes,yes,yes
-CAM040861,CAM040861,eraEvlowW,erato,era.ec.w.ton,ERS4212691,77,low,west,EvlowW,18.66,Novo.Ec.dec17,cyrbia,yes,yes,yes
-SRR4032038,,himHE,himera,,,,high,east,ElowE,,,,yes,yes,yes
-CAM040276,CAM040276,telhighE,telesiphe,,,,high,east,,,,,yes,yes,yes
+version https://git-lfs.github.com/spec/v1
+oid sha256:a437b5a2f81dde9654504f3a7c6e454c6c82c027f9a980f8bc43406faf94cc4c
+size 903

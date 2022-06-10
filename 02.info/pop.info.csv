@@ -1,23 +1,3 @@
-species,type,n,depth.mean,depth.median,depth.diff,depth.sd,depth.max,depth.min,species.short,country,side,alt,pop.name
-erato,ChighE,24,13.23916667,5.395,7.844166667,13.21001429,49.39,3.74,era,co,e,hig,era.co.e.hig
-erato,ChighW,21,12.43428571,6.39,6.044285714,11.26402928,39.88,4.72,era,co,w,hig,era.co.w.hig
-erato,ClowE,33,7.143939394,5.46,1.683939394,4.629251383,19.34,2.17,era,co,e,low,era.co.e.low
-erato,CvlowE,22,11.68136364,5.455,6.226363636,11.953134,35.89,4.51,era,co,e,vlo,era.co.e.vlo
-erato,CvlowW,24,7.33625,5.485,1.85125,4.191400941,17.14,1.67,era,co,w,vlo,era.co.w.vlo
-erato,EhighE,32,6.951875,4.995,1.956875,6.955293383,35.62,1.27,era,ec,e,hig,era.ec.e.hig
-erato,EhighW,31,7.832258065,6.33,1.502258065,4.297526971,18.24,3.87,era,ec,w,hig,era.ec.w.hig
-erato,ElowE,33,9.77,5.28,4.49,9.029271842,34.81,4.07,era,ec,e,low,era.ec.e.low
-erato,ElowW,32,7.2390625,5.67,1.5690625,4.478841555,18.39,2.5,era,ec,w,low,era.ec.w.low
-erato,EvlowE,28,7.871785714,5.6,2.271785714,4.922284213,18.32,3.32,era,ec,e,vlo,era.ec.e.vlo
-erato,EvlowW,38,9.481578947,6.37,3.111578947,5.660842038,18.66,2.1,era,ec,w,vlo,era.ec.w.vlo
-melpomene,ChighE,25,17.0956,15.46,1.6356,10.02125203,35.15,3.15,mel,co,e,hig,mel.co.e.hig
-melpomene,ChighW,18,20.21444444,23.35,-3.135555556,9.221794659,35.48,8.5,mel,co,w,hig,mel.co.w.hig
-melpomene,ClowE,10,9.744,8.08,1.664,8.165666878,31.71,1.16,mel,co,e,low,mel.co.e.low
-melpomene,ClowW,8,13.69125,11.855,1.83625,7.122227656,30.97,8.07,mel,co,w,low,mel.co.w.low
-melpomene,CvlowE,8,11.995,11.495,0.5,3.780030234,19.62,7.94,mel,co,e,vlo,mel.co.e.vlo
-melpomene,CvlowW,22,18.63181818,20.635,-2.003181818,9.2102803,31.64,5.11,mel,co,w,vlo,mel.co.w.vlo
-melpomene,EhighE,25,6.1552,6.6,-0.4448,2.338156539,11.6,1.5,mel,ec,e,hig,mel.ec.e.hig
-melpomene,EhighW,29,8.927586207,7.86,1.067586207,3.58213589,25.35,5.13,mel,ec,w,hig,mel.ec.w.hig
-melpomene,ElowE,25,8.114,6.82,1.294,6.936559546,32.46,0.84,mel,ec,e,low,mel.ec.e.low
-melpomene,ElowW,25,12.5712,8.29,4.2812,9.166698479,37.62,1.79,mel,ec,w,low,mel.ec.w.low
-melpomene,EvlowE,5,7.494,7.28,0.214,0.500629604,8.33,7.08,mel,ec,e,vlo,mel.ec.e.vlo
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d86bbd8492cf98456e0e69a3c2f6a573ada14acea74c8bd28235c026be55f32
+size 2128

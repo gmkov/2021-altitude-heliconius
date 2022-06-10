@@ -1,9 +1,3 @@
-id.joana,cam.id,species,subsp,country.alt.side,sp.country.alt.side,pop.name,accession,altitude,alt.type,side,type.gmk,seq.round,mean.depth.wg.withzeros,in.tree,in.tree.gmk,in.main.tree
-CAM040419,CAM040419,cydno,alithea,EhighW,cydnoEhighW,,,NA,high,West,,,NA,yes,yes,yes
-SRR7162651,,hecale,hecale,hecale,hecale,,,NA,low,East,,,NA,yes,yes,yes
-CAM041201,CAM041201,melpomene,malleti,EhighE,melpomeneEhighE,mel.ec.e.nar,ERS4212726,1120,high,East,EhighE,BGI.round.3.18,10.06,yes,yes,yes
-CS004035,CS004035,melpomene,vicina,CvlowE,melpomeneCvlowE,mel.co.e.let,,40,low,East,CvlowE,Novo_vicina_CS,19.62,yes,yes,yes
-15N020,15N020,melpomene,cythera,EhighW,melpomeneEhighW,mel.ec.w.pac,,1016,high,West,EhighW,JE.NN.novogene.18,25.35,yes,yes,yes
-15N156,15N156,melpomene,vulcanus,ClowW,melpomeneClowW,mel.co.w.cau,,346,low,West,ClowW,JE.NN.novogene.18,30.97,yes,yes,yes
-CAM008521,CAM008521,timareta,timareta,EhighE,timaretaEhighE,,,NA,high,East,,,NA,yes,yes,yes
-CAM041051,CAM041051,timareta,nov.,ElowE,timaretaElowE,,,NA,low,East,,,NA,yes,yes,yes
+version https://git-lfs.github.com/spec/v1
+oid sha256:d946ee8e8ca844cc741e99aee6ed80af7c39b6d133c78b91f9a5104886a5017e
+size 1039

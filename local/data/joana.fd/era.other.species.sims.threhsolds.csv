@@ -1,25 +1,3 @@
-combo.para.allo.type,combo,min.fdm.10th,max.fdm.90th
-shdr.para.east,fd_eraCvlowE_eraChighE_clyEhighE_eleHW,-0.0154,0.0174
-shdr.para.east,fd_eraCvlowE_eraChighE_himHE_eleHW,-0.0378,0.0581
-shdr.para.east,fd_eraCvlowE_eraChighE_telhighE_eleHW,-0.0151,0.0164
-shdr.para.east,fd_eraCvlowW_eraChighW_clyEhighW_eleHW,-0.0148,0.0161
-shdr.para.east,fd_eraEvlowE_eraEhighE_clyEhighE_eleHW,-0.0165,0.0159
-shdr.para.east,fd_eraEvlowE_eraEhighE_himHE_eleHW,-0.0473,0.0382
-shdr.para.east,fd_eraEvlowE_eraEhighE_telhighE_eleHW,-0.0164,0.0153
-shdr.para.east,fd_eraEvlowW_eraEhighW_clyEhighW_eleHW,-0.0122,0.0113
-shdr.para.west,fd_eraCvlowE_eraChighE_clyEhighE_eleHW,-0.0143,0.016
-shdr.para.west,fd_eraCvlowE_eraChighE_himHE_eleHW,-0.0347,0.053
-shdr.para.west,fd_eraCvlowE_eraChighE_telhighE_eleHW,-0.0139,0.0153
-shdr.para.west,fd_eraCvlowW_eraChighW_clyEhighW_eleHW,-0.0138,0.0146
-shdr.para.west,fd_eraEvlowE_eraEhighE_clyEhighE_eleHW,-0.0152,0.015
-shdr.para.west,fd_eraEvlowE_eraEhighE_himHE_eleHW,-0.0443,0.0351
-shdr.para.west,fd_eraEvlowE_eraEhighE_telhighE_eleHW,-0.0149,0.0141
-shdr.para.west,fd_eraEvlowW_eraEhighW_clyEhighW_eleHW,-0.0114,0.0103
-shdr.allo,fd_eraCvlowE_eraChighE_clyEhighE_eleHW,-0.015,0.0167
-shdr.allo,fd_eraCvlowE_eraChighE_himHE_eleHW,-0.0364,0.0565
-shdr.allo,fd_eraCvlowE_eraChighE_telhighE_eleHW,-0.0145,0.0158
-shdr.allo,fd_eraCvlowW_eraChighW_clyEhighW_eleHW,-0.0144,0.0156
-shdr.allo,fd_eraEvlowE_eraEhighE_clyEhighE_eleHW,-0.016,0.0155
-shdr.allo,fd_eraEvlowE_eraEhighE_himHE_eleHW,-0.0456,0.0371
-shdr.allo,fd_eraEvlowE_eraEhighE_telhighE_eleHW,-0.0157,0.0148
-shdr.allo,fd_eraEvlowW_eraEhighW_clyEhighW_eleHW,-0.0118,0.0108
+version https://git-lfs.github.com/spec/v1
+oid sha256:487160bfb7e5c1206ccdac5cdcd163f1587a174945ccbd1f32bf12fe6ad0f9ff
+size 1657

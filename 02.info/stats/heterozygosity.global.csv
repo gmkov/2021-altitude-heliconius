@@ -1,21 +1,3 @@
-﻿species,country,side,pop1,pop2,heterozygosity
-mel,co,w,hig,low,0.006134689
-mel,ec,w,hig,low,0.008180848
-mel,ec,e,low,vlo,0.008753697
-mel,ec,e,hig,vlo,0.009786348
-mel,co,e,hig,low,0.01323776
-mel,co,w,hig,vlo,0.0169303
-mel,co,e,hig,vlo,0.01715075
-mel,co,w,low,vlo,0.0191638
-mel,co,e,low,vlo,0.0213425
-era,ec,w,hig,low,0.02220037
-era,ec,w,low,vlo,0.02446787
-era,ec,w,hig,vlo,0.02525526
-mel,ec,e,hig,low,0.02561017
-era,co,w,hig,vlo,0.03058257
-era,ec,e,hig,low,0.04672087
-era,co,e,low,vlo,0.04703321
-era,ec,e,low,vlo,0.0491459
-era,ec,e,hig,vlo,0.05228143
-era,co,e,hig,vlo,0.06015161
-era,co,e,hig,low,0.06028519
+version https://git-lfs.github.com/spec/v1
+oid sha256:405dfbc1a8b47ee9c1ce1f63708da34ae345bcd55fc25b6b6efbbb6fbf38fd5d
+size 628
