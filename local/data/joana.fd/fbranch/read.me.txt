@@ -1,0 +1,5 @@
+Note that I have set all values to zero if the z score was below 3. So all coloured squares show significant excess of allele sharing.
+
+The melpomene.balTree_tree.txt contains the D statistics, the fbranch.Z.txt file contains all fbranch and z scores  (including non-significant ones) and fbranch.signOnly.txt contains the fbranch values used for the matrix.
+
+fbranch basically summarizes multiple Dstats or rather f4 ratio values.

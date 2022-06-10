@@ -1,0 +1,14 @@
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040038.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040078.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040077.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040015.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040016.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040017.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040018.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040042.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040066.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040111.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040039.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040112.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040113.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM040114.rmmt.rmd.bam

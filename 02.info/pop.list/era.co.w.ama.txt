@@ -1,0 +1,4 @@
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/15N238.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/15N239.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/15N241.rmmt.rmd.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/15N261.rmmt.rmd.bam

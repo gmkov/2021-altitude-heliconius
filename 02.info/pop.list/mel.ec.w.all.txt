@@ -1,0 +1,2 @@
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM002856_ena.rmmt.rmd.rg.bam
+/home/mgm49/rds/rds-cj107-jiggins-rds/projects/mgm49/all.bams/rmmt.rmd.bam/CAM002857_ena.rmmt.rmd.rg.bam
