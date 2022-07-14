@@ -1,10 +1,10 @@
 ## Description
 
-Data and scripts associated with the article "Repeated genetic adaptation to altitude in two tropical butterflies", _______ (2022), by Gabriela Montejo-Kovacevich, Joana I. Meier, Caroline N. Bacquet, Ian A. Warren, Yingguang Frank Chan, Marek Kucka, Camilo Salazar, Nicol Rueda, Stephen H. Montgomery, W. Owen McMillan, Krzysztof M. Kozak, Nicola J. Nadeau, Simon Martin, Chris D. Jiggins. DOI ________
+Data and scripts associated with the article "Repeated genetic adaptation to altitude in two tropical butterflies", accepted in Nature Communications (2022), by Gabriela Montejo-Kovacevich, Joana I. Meier, Caroline N. Bacquet, Ian A. Warren, Yingguang Frank Chan, Marek Kucka, Camilo Salazar, Nicol Rueda, Stephen H. Montgomery, W. Owen McMillan, Krzysztof M. Kozak, Nicola J. Nadeau, Simon Martin, Chris D. Jiggins.
 
-Sequence data is deposited at the NCBI Short Read Archive (primary accession: PRJEB36288) or elsewhere on ENA, as specified in Supplementary Table 1 (link _______). 
+Sequence data is deposited at ENA (primary accession: PRJEB35570	ERP118642) or elsewhere on ENA, as specified in Supplementary Table 1 (see manuscript). 
 
-Extra metadata on each individual butterfly, including photos for most (file names of photos are indicated on 02.info/all.bams.list.info.csv), can be found on the [Earthcape database](https://heliconius.ecdb.io/) and FAQ on how to use it can be found [here](https://heliconius.zoo.cam.ac.uk/databases/earthcape-specimen-database/). 02.info/all.bams.list.info.csv has all information for the 518 individuals of *H. erato* and *H. melpomene* included in this study. Supplementary Table 1 (link _______) also contains information for the other species included in this study for introgression analyses.
+Extra metadata on each individual butterfly, including photos for most (file names of photos are indicated on 02.info/all.bams.list.info.csv), can be found on the [Earthcape database](https://heliconius.ecdb.io/) and FAQ on how to use it can be found [here](https://heliconius.zoo.cam.ac.uk/databases/earthcape-specimen-database/). 02.info/all.bams.list.info.csv has all information for the 518 individuals of *H. erato* and *H. melpomene* included in this study. Supplementary Table 1 also contains information for the other species included in this study for introgression analyses.
 
 The scripts within 01.scripts/ are thought for a computing cluster. Local scripts and intermediate files can be found in local/. These scripts will require adapting to local requirements (cpus, memory, working directories) and a fair amount of work to understand them. The scripts to produce the figures are in local/scripts/.
 
